@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/stylesheet/black.qss</file>
+        <file>res/image/black.png</file>
+        <file>res/image/close.svg</file>
+        <file>res/image/close_hover.svg</file>
+        <file>res/image/close_pressed.svg</file>
+        <file>res/image/hide.png</file>
+        <file>res/image/hide_hover.png</file>
+        <file>res/image/hide_pressed.png</file>
+        <file>res/image/maximize.svg</file>
+        <file>res/image/maximize_hover.svg</file>
+        <file>res/image/maximize_pressed.svg</file>
+        <file>res/image/minimize.svg</file>
+        <file>res/image/minimize_hover.svg</file>
+        <file>res/image/minimize_pressed.svg</file>
+        <file>res/image/root.jpg</file>
+        <file>res/image/background.jpg</file>
+    </qresource>
+</RCC>
